@@ -42,4 +42,4 @@ PAGE_EXCLUDES = ['cv']
 ARTICLE_EXCLUDES = ['cv']
 
 
-THEME='pelican_in'
+THEME = 'pelican_in'
