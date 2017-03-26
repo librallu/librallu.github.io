@@ -60,7 +60,6 @@ gulp.task('in_html', function() {
   .pipe(gulp.dest(pelican_in+'/templates/'));
 });
 
-
 /*
 call pelican
 */

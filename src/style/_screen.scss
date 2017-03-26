@@ -1,0 +1,209 @@
+$link-color: #a9d459;
+$link-over-color: #a7dfa7;
+$header-background-color: #464646;
+$main-font-color: #454545;
+$second-font-color: #656565;
+$white-color: #f7f7f7;
+$less-white-color: #e7e7e7;
+$banner-bottom-color: #262626;
+$border-article: #333;
+$article-border-color: #ccc;
+$edito_top_color: #c9f479;
+$edito_background_color: #a9d459;
+$article-image-color: #453;
+$bread_inactive: #c5c5c5;
+$bread_separator: #a5a5a5;
+
+html, body, div {
+  margin: 0;
+  padding: 0;
+  background-color: $header-background-color;
+}
+
+#banner {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: $header-background-color;
+    border-bottom: 1px solid $banner-bottom-color;
+    align-items: center;
+    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    a {
+
+      color: #e7e7e7;
+      font-weight: 500;
+      font-size: 1.7em;
+      transition: color 0.5s;
+
+      img {
+        width: 150px;
+        height: 150px;
+        border-radius: 200px;
+        border: 10px solid #e7e7e7;
+        margin-right: 20px;
+        margin-left: 20px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      }
+    }
+
+    .banner-left {
+      margin-left: 30px;
+    }
+
+    .banner-right {
+      margin-right: 30px;
+    }
+
+    a:hover {
+      color: $link-color;
+    }
+
+}
+
+
+
+#content {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: $less-white-color;
+  padding-right: 15%;
+  padding-left: 15%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+
+  div {
+    background-color: $less-white-color;
+  }
+}
+
+#home {
+  margin-top: 30px;
+  text-align: center;
+}
+
+#post-list {
+
+  flex-direction: column;
+  display: flex;
+  display: block;
+
+  .card-link {
+    display: inline-block;
+    text-decoration: none;
+    color: none;
+    width: 500px;
+    margin: 15px;
+
+    .card {
+      .card-header {
+        background-color: $white_color;
+      }
+    }
+
+  }
+
+  .card-link:hover {
+    text-decoration: none;
+    color: none;
+  }
+
+}
+
+
+
+#paginator {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+    .paginator {
+
+        a {
+            margin: 0;
+            padding: 0;
+            margin-right: 20px;
+            background-color: $edito_background_color;
+            color: $white_color;
+            width: 20px;
+            height: 35px;
+            padding-top: 5px;
+            padding-right: 10px;
+            padding-left: 10px;
+            font-size: 1.5em;
+            font-weight: bold;
+            box-shadow: none;
+            border: 0;
+        }
+
+        span {
+            margin: 0;
+            margin-right: 20px;
+            padding: 0;
+            padding-top: 5px;
+            padding-right: 10px;
+            padding-left: 10px;
+            display: inline-block;
+            background-color: $white_color;
+            height: 35px;
+            padding-top: 5px;
+            font-size: 1.5em;
+
+        }
+
+        a:hover {
+            color: $white_color;
+        }
+
+    }
+
+}
+
+
+#main-footer {
+    text-align: center;
+    color: $white-color;
+    background-color: $header-background-color;
+    padding-bottom: 20px;
+
+    #link-list {
+      list-style-type: none;
+      justify-content: center;
+      display: flex;
+      flex-dirextion: row;
+
+      li {
+        margin-right: 30px;
+      }
+    }
+
+    #social-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding-top: 25px;
+        padding-bottom: 25px;
+
+        a {
+            text-decoration: none;
+            display: inline-block;
+            color: $less-white-color;
+            margin-right: 30px;
+            transition: box-shadow .5s;
+            font-size: 100px;
+            width: 100px;
+            height: 100px;
+        }
+
+        a:hover {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+    }
+
+}

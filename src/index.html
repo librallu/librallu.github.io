@@ -1,13 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Luc Libralesso</title>
-  <link rel="stylesheet" type="text/css" href="theme/css/style.min.css">
-</head>
-<body>
-  <h1>Hello world !</h1>
-</body>
-</html>
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>Bienvenue !</h1>
+  <p>Je m'appelle <b>Luc Libralesso</b>. Je suis étudiant en informatique/Mathématiques (Master 2 en Recherche Opérationnelle et optimisation Combinatoire).</p>
+  <p>Sur ce site, je partage mes dernières découvertes/expériences, principalement a propos d'algorithmique, de génération procédurale et de développement.</p>
+
+
+
+  <div id="home">
+    <h1>Derniers articles ou expériences</h1>
+    <div id="post-list">
+        {% for article in articles_page.object_list %}
+            {% if loop.index <= 2 %}
+            <a class="card-link" href="{{ SITEURL }}/{{ article.url }}">
+              <div class="card">
+                <div class="card-image">
+                  <img src="{{article.image}}" class="img-responsive" />
+                </div>
+                <div class="card-header">
+                  <h4 class="card-title">{{article.title}}</h4>
+                  <h6 class="card-subtitle">{{ article.locale_date}}</h6>
+                </div>
+              </div>
+            </a>
+            {% endif %}
+        {% endfor %}
+    </div>
+  </div>
+
+
+{% endblock content %}

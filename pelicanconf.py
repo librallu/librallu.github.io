@@ -43,3 +43,7 @@ ARTICLE_EXCLUDES = ['cv']
 
 
 THEME = 'pelican_in'
+
+SITE_DESCRIPTION = 'Site perso de Luc Libralesso'
+SITE_IMAGE = '/images/profil.jpg'
+SITE_IMAGE_ALT = 'Luc Libralesso'

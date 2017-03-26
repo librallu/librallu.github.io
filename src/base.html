@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+{% block head %}
+    <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+    <link rel="stylesheet" type="text/css" href="theme/css/style.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="{{ SITEURL }}/theme/img/favicon.ico" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0" />
+    <meta charset="UTF-8">
+    <meta name="description" content="{{ SITE_DESCRIPTION }}">
+
+    {% block opengraph %}
+    <meta property="og:title" content="{{ SITE_DESCRIPTION }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ SITEURL }}/" />
+    <meta property="og:image" content="" />
+    {% endblock opengraph %}
+
+    {% block polymer_imports %}
+    {% endblock polymer_imports %}
+
+    {% block style %}
+
+    {% endblock style %}
+{% endblock head %}
+</head>
+
+<body>
+
+    <!--
+    image="{{SITE_IMAGE}}"
+    altimg="{{SITE_IMAGE_IMAGE_ALT}}"
+    -->
+
+    <header id="banner">
+        <a href="/apropos.html" class="banner-left">A PROPOS</a>
+        <a href="/cv/" class="banner-left">CV</a>
+        <a href="/" alt="accueil">
+          <img src="{{SITE_IMAGE}}" alt="{{SITE_IMAGE_ALT}}"/>
+        </a>
+        <a href="/experiments.html" class="banner-right">EXPERIENCES</a>
+        <a href="/blog.html" class="banner-right">BLOG</a>
+
+    </header>
+
+    <section id="content">
+    {% block content %} {% endblock %}
+    </section>
+
+    <footer id="main-footer">
+
+        <div id="social-list">
+            <a class="fa fa-twitter" href="https://twitter.com/librallu" alt="twitter: librallu"></a>
+            <a class="fa fa-facebook" href="https://github.com/librallu" alt="github: librallu"></a>
+        </div>
+
+        Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+        which takes great advantage of <a href="http://python.org">Python</a>.
+        Theme by Luc Libralesso
+    </footer>
+
+</body>
+
+</html>
