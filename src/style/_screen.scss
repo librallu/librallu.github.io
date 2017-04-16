@@ -207,3 +207,8 @@ html, body, div {
     }
 
 }
+
+
+@media (max-width:675px) {
+    @import 'small';
+}
