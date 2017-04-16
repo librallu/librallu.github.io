@@ -23,6 +23,7 @@ gulp.task('serve', function() {
         server: dest
     });
     gulp.watch(src+"style/*.scss", ["pelican"]);
+    gulp.watch(src+"*.html", ["pelican"]);
     gulp.watch(dest+"/**/*.{html,js}").on('change', browserSync.reload);
 
 

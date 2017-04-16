@@ -80,6 +80,7 @@ html, body, div {
   div {
     background-color: $less-white-color;
   }
+  
 }
 
 #home {
@@ -206,6 +207,17 @@ html, body, div {
         }
     }
 
+}
+
+
+#article-info {
+  border: 1px solid #ddd;
+
+  img {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
 }
 
 

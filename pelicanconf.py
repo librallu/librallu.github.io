@@ -36,11 +36,12 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
+DIRECT_TEMPLATES = ['index', 'blog', 'experiments', 'apropos']
+PAGINATED_DIRECT_TEMPLATES = ['index', 'blog', 'experiments', 'apropos']
 
 STATIC_PATHS = ['cv', 'images']
 PAGE_EXCLUDES = ['cv']
 ARTICLE_EXCLUDES = ['cv']
-
 
 THEME = 'pelican_in'
 
