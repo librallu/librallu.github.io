@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Longest common subsequence: an algorithmic component analysis",
+        "authors": "Luc Libralesso, Aurélien Secardin, Vincent Jost",
+        "abstract": "",
+        "actions": [
+            {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-02895115/document"},
+            {"name": "code", "link": "https://gitlab.com/secardia/cats-ts-lcs"}
+        ]
+    },
+    {
+        "title": "An anytime tree search algorithm for two-dimensional two- and three-staged guillotine packing problems",
+        "authors": "Florian Fontan, Luc Libralesso",
+        "actions": [
+            {"name": "PDF", "link": "https://arxiv.org/pdf/2004.02603.pdf"},
+            {"name": "code", "link": "https://github.com/fontanf/packingsolver"}
+        ]
+    },
+    {
+        "title": "Study on partial flexible job-shop scheduling problem under tooling constraints: complexity and related problems",
+        "authors": "Luc Libralesso, Vincent Jost, Khadija Hadj Salem, Florian Fontan, Frédéric Maffray",
+        "actions": [
+            {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-02183503/document"}
+        ]
+    }
+]

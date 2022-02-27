@@ -1,0 +1,78 @@
+[
+    {
+        "title": "From a branch-and-bound to a state-of-the-art heuristic: An example on the permutation flowshop problem",
+        "text": "June 15 2021",
+        "actions": [{"name": "slides", "link": "/slides/21_06_MESS_talk.pdf"}]
+    },
+    {
+        "title": "Automatic generation of models for differential cryptanalysis",
+        "text": "October 2020, CP 2020",
+        "actions": [{"name": "slides", "link": "/slides/20_10_cp21_tagada.pdf"}]
+    },
+    {
+        "title": "Tree search algorithms for the sequential ordering problem",
+        "text": "September 20 2020, CPAIOR 2020",
+        "actions": [{"name": "slides", "link": "/slides/20_09_CPAIOR.pdf"}]
+    },
+    {
+        "title": "Tree search algorithms for the sequential ordering problem",
+        "text": "September 2 2020, ECAI 2020",
+        "actions": [{"name": "slides", "link": "/slides/20_08_ECAI.pdf"}]
+    },
+    {
+        "title": "Tree search algorithms for the sequential ordering problem",
+        "text": "June 30 2020, CNIA 2020",
+        "actions": [{"name": "slides", "link": "/slides/20_07_SOP_CNIA.pdf"}]
+    },
+    {
+        "title": "Anytime tree search for discrete optimization: A tutorial",
+        "text": "April 28 2020, ROSP seminar",
+        "actions": [{"name": "slides", "link": "/slides/20_04_TS_for_CO.pdf"}]
+    },{
+        "title": "Why branch-and-bounds are meta-heuristics: state-of-the-art heuristics from branch-and-bounds",
+        "text": "February, 20, 2020, 21ème congrès annuel de la société Française de Recherche Opérationnelle et d’Aide à la Décision (ROADEF 2020)",
+        "actions": [{"name": "slides", "link": "/slides/20_02_ROADEF20_BB_MH.pdf"}]
+    },{
+        "title": "Tree searches for Sequential Ordering Problem: Contradicting conventional wisdom",
+        "text": "January, 30, 2020, RealOpt Seminar",
+        "actions": [{"name": "slides", "link": "/slides/20_01_TS_for_SOP_realopt_seminar.pdf"}]
+    },{
+        "title": "Tree search for combinatorial optimization",
+        "text": "January 2, 2020, Operations Research and Combinatorial Optimization (ORCO) Master lecture",
+        "actions": [{"name": "slides", "link": "/slides/20_01_ORCO_tree_search.pdf"}]
+    },{
+        "title": "Efficient tree-search algorithms in Optimization and Operation Research",
+        "text": "July 11, 2019, Naverlabs seminar",
+        "actions": [{"name": "slides", "link": "/slides/19_07_naverlabs_talk.pdf"}]
+    },{
+        "title": "A Heuristic Branch-and-Bound for the EURO/ROADEF 2018 challenge",
+        "text": "June 24, 2019, the 30th European Conference on Operational Research (EURO 2019)",
+        "actions": [
+            {"name": "slides", "link": "/slides/19_06_EURO_slides.pdf"}
+        ]
+    },{
+        "title": "Tree Search and the EURO/ROADEF challenge",
+        "text": "May 20, 2019, ROOT team, LIFAT",
+        "actions": [{"name": "slides", "link": "/slides/19_05_seminaire_tours.pdf"}]
+    },{
+        "title": "Tree Search and the EURO/ROADEF challenge",
+        "text": "March 21, 2019, ROSP team, G-SCOP",
+        "actions": [{"name": "slides", "link": "/slides/19_03_MidiROSP.pdf"}]
+    },{
+        "title": "Triangle Width: de l'ordonnancement à la théorie des graphes",
+        "text": "February, 21, 2019, 20ème congrès annuel de la société Française de Recherche Opérationnelle et d’Aide à la Décision (ROADEF 2019)",
+        "actions": [{"name": "slides", "link": "/slides/19_02_roadef_triangle_width.pdf"}]
+    },{
+        "title": "Triangle Width: de l'ordonnancement à la théorie des graphes",
+        "text": "May 31, 2018, ROSP team, G-SCOP",
+        "actions": [{"name": "slides", "link": "/slides/18_05_rosp_triangle_width.pdf"}]
+    },{
+        "title": "Comment la recherche opérationnelle peut elle créer des cerveaux sur puce",
+        "text": "May 17, 2018, G-SCOP days",
+        "actions": [{"name": "slides", "link": "/slides/18_06_jdd_mstii_presentation.pdf"}]
+    },{
+        "title": "Comment la recherche opérationnelle peut elle créer des cerveaux sur puce",
+        "text": "February, 23, 2018, 19ème congrès annuel de la société Française de Recherche Opérationnelle et d’Aide à la Décision (ROADEF 2018)",
+        "actions": [{"name": "slides", "link": "/slides/18_02_roadef.pdf"}]
+    }
+]

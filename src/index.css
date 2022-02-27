@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.display_space {
+    max-width: 1600px;
+    margin: auto;
+    padding: 20px;
+}
+
+.card {
+    margin: 10px;
+}
+
+.card-compact {
+    width: 500px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.separator-50 {
+    height: 50px;
+}
+
+.talk {
+    margin-bottom: 10px;
+}
+
+.advising {
+    margin-bottom: 20px;
+}
+
+.teaching_year {
+    margin-bottom: 30px;
+}
+
+.teaching_item {
+    margin-left: 30px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+}
+
+.profile-presentation {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.social-networks {
+    display: flex;
+    margin: 10px;
+    margin-top: 20px;
+}

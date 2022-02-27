@@ -1,7 +1,2 @@
-.git/*
-bower_components/*
-dest/*
-node_modules/*
-pelican_in/*
-tmp/*
-__pycache__/*
+node_modules
+dist

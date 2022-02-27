@@ -1,0 +1,59 @@
+[
+    {
+        "year": "2020-2021",
+        "items": [
+            {
+                "title": "Scientific documents synthesis & analysis",
+                "class": "INSA Lyon, L3 MATH/INFO", "hours": "28", "link": "",
+                "text": "Teaching assistant"
+            }
+        ]
+    },
+    {
+        "year": "2019-2020",
+        "items": [
+            {
+                "title": "Advanced Methods in Operations Research (course project)",
+                "class": "M2 ORCO", "hours": "12", "link": "https://caseine.org/enrol/index.php?id=339",
+                "text": "Project designer"
+            },
+            {
+                "title": "Second year Specialty project",
+                "class": "Ensimag 2A", "hours": "15",
+                "link": "https://ensiwiki.ensimag.fr/index.php?title=Projet_de_sp%C3%A9cialit%C3%A9_-_Exp%C3%A9rimentation_de_m%C3%A9thodes_de_r%C3%A9solution_pour_l%27optimisation_combinatoire",
+                "text": "Project designer"
+            },
+            {
+                "title": "Introduction to Operations Research (in french)",
+                "class": "M1 INFO", "hours": "12", "link": "https://caseine.org/course/view.php?id=42&username=guest",
+                "text": "Teaching assistant"
+            }
+        ]
+    },
+    {
+        "year": "2018-2019",
+        "items": [
+            {
+                "title": "Introduction to graph theory (in french)", "class": "L2 INFO", "hours": "30", "link": "https://pagesperso.g-scop.grenoble-inp.fr/~stehlikm/",
+                "text": "Teaching assistant"
+            },
+            {
+                "title": "Introduction to software engineering (in french)", "class": "L2 INFO", "hours": "33", "link": "https://enseignement.gricad-pages.univ-grenoble-alpes.fr/inf304/",
+                "text": "Teaching assistant"
+            }
+        ]
+    },
+    {
+        "year": "2017-2018",
+        "items": [
+            {
+                "title": "Introduction to computer networks (in french)", "class": "M1 INFO", "hours": "33", "link": "http://lig-membres.imag.fr/sicard/CoursRes.html",
+                "text": "Teaching assistant"
+            },
+            {
+                "title": "Modelization and data structures (in french)", "class": "L1 INFO", "hours": "30", "link": "http://lig-membres.imag.fr/loiseapa/courses/inf202/accueil/index.html",
+                "text": "Teaching assistant"
+            }
+        ]
+    }   
+]

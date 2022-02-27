@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Abdel-Malik Bouhassoun",
+        "date": "June - Aug 2018",
+        "note": "[M1] Co-advised with Vincent Jost",
+        "topic": "On hypergraph ordering problems"
+    },
+    {
+        "name": "Abdel-Malik Bouhassoun",
+        "date": "Feb - July 2019",
+        "note": "[M2] Co-advised with Vincent Jost",
+        "topic": "Generic tree search algorithms and the Sequential Ordering Problem"
+    },
+    {
+        "name": "Paul Revenant",
+        "date": "June - July 2019",
+        "note": "[L3] Co-advised with Vincent Jost",
+        "topic": "Longest chains in divisibility graphs"
+    },
+    {
+        "name": "Aurélien Secardin",
+        "date": "Feb - July 2020",
+        "note": "[M2] Co-advised with Vincent Jost",
+        "topic": "Anytime tree search algorithms for the longest common subsequence problem"
+    },
+    {
+        "name": "Pablo Andres Focke",
+        "date": "May - July 2020",
+        "note": "[L3] Co-advised with Vincent Jost",
+        "topic": "Iterative beam search algorithms for the permutation flowshop problem"    
+    },
+    {
+        "name": "Ana Margarita Rodríguez Cordero",
+        "date": "Feb - July 2021",
+        "note": "[M2] Co-advised with Pascal Lafourcade",
+        "topic": "Automatically generating new cryptanalysis attacks"
+    },
+    {
+        "name": "Junior Rousseau Kollo Ntengue",
+        "date": "Feb - July 2021",
+        "note": "[M2] Co-advised with Pascal Lafourcade",
+        "topic": "Modelization process and graphical user interface for modern cryptanalysis of symmetric ciphers"
+    }
+]

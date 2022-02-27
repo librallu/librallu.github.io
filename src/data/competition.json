@@ -1,0 +1,101 @@
+[
+    {
+        "title": "EURO/ROADEF 2018 challenge",
+        "rank": "Best team in Junior/Open source/Senior categories (among 64 registered teams)",
+        "authors": "Florian Fontan, Luc Libralesso",
+        "actions": [
+            {
+                "name": "Webpage",
+                "link": "https://www.roadef.org/challenge/2018/en/finalResults.php"
+            },
+            {
+                "name": "Ceremony",
+                "link": "https://www.euro-online.org/media_site/photos/Awards/2019/ROADEF2019winner2.jpg"
+            },
+            {
+                "name": "Video",
+                "link": "https://watch.cloudflarestream.com/0e9acf6e4c59011b387b5b56c9df194f"
+            },
+            {
+                "name": "code",
+                "link": "https://github.com/fontanf/roadef2018"
+            }
+        ]
+    },
+    {
+        "title": "EURO/ROADEF 2020 challenge",
+        "rank": "4th best team in the Senior category, 3th best team in the Open source category (among 74 registered teams)",
+        "authors": "Florian Fontan, Luc Libralesso",
+        "actions": [
+            {
+                "name": "Webpage",
+                "link": "https://www.roadef.org/challenge/2020/en/finalresult.php"
+            },
+            {
+                "name": "code",
+                "link": "https://github.com/fontanf/localsearchsolver/blob/master/examples/roadef2020.hpp"
+            }
+        ]
+    },
+    {
+        "title": "Multi Agent Path Finding (SoCG 2021 competition)",
+        "rank": "1st team for the makespan minimization among 30 registered teams",
+        "authors": "Loïc Crombez, Guilherme D. da Fonseca, Yan Gerard, Luc Libralesso, Aldo Gonzalez-Lorenzo, Pascal Lafourcade, Bastien Rivier",
+        "actions": [
+            {
+                "name": "Webpage",
+                "link": "https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2021/#ranking"
+            },
+            {"name": "code", "link": "https://github.com/gfonsecabr/shadoks-robots"}
+        ]
+    },
+    {
+        "title": "Graph coloring (SoCG 2022 competition)",
+        "rank": "3rd team among 40 registered teams",
+        "authors": "Florian Fontan, Pascal Lafourcade, Luc Libralesso, Benjamin Momège",
+        "actions": [
+            {
+                "name": "Webpage",
+                "link": "https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2022/#ranking"
+            },
+            {"name": "code", "link": "https://github.com/librallu/dogs-pfsp"}
+        ]
+    },
+    {
+        "title": "Meta-heuristics summer school competition (MESS2018)",
+        "rank": "Best results among 9 registered teams",
+        "authors": "Luc Libralesso",
+        "actions": [
+            {
+                "name": "code",
+                "link": "https://gitlab.com/librallu/balancedtspcode"
+            }
+        ]
+    },
+    {
+        "title": "ACP 2019 Summer School hackaton",
+        "rank": "Best results on easy and hard instances.",
+        "authors": "Valentin Antuori, Arthur Godet, Luc Libralesso, Giovanni Lo Bianco",
+        "actions": [
+            {
+                "name": "code",
+                "link": "https://github.com/ArthurGodet/hackathonACP2019"
+            }
+        ]
+    },
+    {
+        "title": "Uniform-Cost Set-covering problem competition (GECCO 2020)",
+        "rank": "2nd best team among 7 registered teams",
+        "authors": "Florian Fontan, Luc Libralesso",
+        "actions": [
+            {
+                "name": "Webpage",
+                "link": "http://www.mage.fst.uha.fr/brevilliers/gecco-2020-ocp-uscp-competition/"
+            },
+            {
+                "name": "code",
+                "link": "https://github.com/fontanf/setcoveringsolver"
+            }
+        ]
+    }
+]
