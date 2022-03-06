@@ -1,22 +1,20 @@
 [
     {
-        "title": "Do balanced words have a short period?",
-        "where": "Theoretical Computer Science (TCS), Volume 793, 12 November 2019",
-        "authors": "Nadia Brauner, Yves Crama, Etienne Delaporte, Vincent Jost, Luc Libralesso",
+        "title": "Shadoks Approach to Low-Makespan Coordinated Motion Planning",
+        "where": "(Accepted) Journal of Experimental Algorithmics",
+        "authors": "Loïc Crombez, Guilherme D. da Fonseca, Yan Gerard, Aldo Gonzalez-Lorenzo, Pascal Lafourcade, Luc Libralesso",
         "actions": [
-            {"name": "DOI", "link": "https://doi.org/10.1016/j.tcs.2019.06.017"},
-            {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-01954563/document"}
+            {"name": "DOI (to appear)", "link": ""},
+            {"name": "PDF", "link": "https://arxiv.org/pdf/2103.13956.pdf"}
         ]
     },
     {
-        "title": "An anytime tree search algorithm for the 2018 ROADEF/EURO challenge glass cutting problem",
-        "where": "European Journal of Operational Research (EJOR) Volume 291, Issue 3, 16 June 2021, Pages 883-893",
-        "authors": "Luc Libralesso, Florian Fontan",
+        "title": "Physical zero-knowledge proof and NP-completeness proof of Suguru puzzle",
+        "where": "Information and Computation, Available online 7 December 2021",
+        "authors": "Léo Robert, Daiki Miyahara, Pascal Lafourcade, Luc Libralesso, Takaaki Mizuki",
         "actions": [
-            {"name": "DOI", "link": "https://doi.org/10.1016/j.ejor.2020.10.050"},
-            {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-02531037/document"},
-            {"name": "code", "link": "https://github.com/fontanf/roadef2018"},
-            {"name": "Video", "link": "https://watch.cloudflarestream.com/0e9acf6e4c59011b387b5b56c9df194f"}
+            {"name": "DOI", "link": "https://doi.org/10.1016/j.ic.2021.104858"},
+            {"name": "PDF", "link": "https://hal.uca.fr/hal-03542495/document"}
         ]
     },
     {
@@ -30,12 +28,14 @@
         ]
     },
     {
-        "title": "Physical zero-knowledge proof and NP-completeness proof of Suguru puzzle",
-        "where": "Information and Computation, Available online 7 December 2021",
-        "authors": "Léo Robert, Daiki Miyahara, Pascal Lafourcade, Luc Libralesso, Takaaki Mizuki",
+        "title": "An anytime tree search algorithm for the 2018 ROADEF/EURO challenge glass cutting problem",
+        "where": "European Journal of Operational Research (EJOR) Volume 291, Issue 3, 16 June 2021, Pages 883-893",
+        "authors": "Luc Libralesso, Florian Fontan",
         "actions": [
-            {"name": "DOI", "link": "https://doi.org/10.1016/j.ic.2021.104858"},
-            {"name": "PDF", "link": "https://hal.uca.fr/hal-03542495/document"}
+            {"name": "DOI", "link": "https://doi.org/10.1016/j.ejor.2020.10.050"},
+            {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-02531037/document"},
+            {"name": "code", "link": "https://github.com/fontanf/roadef2018"},
+            {"name": "Video", "link": "https://watch.cloudflarestream.com/0e9acf6e4c59011b387b5b56c9df194f"}
         ]
     },
     {
@@ -55,6 +55,15 @@
             {"name": "DOI", "link": "https://doi.org/10.1007/978-3-030-68520-1_1"},
             {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-02569456/document"},
             {"name": "code", "link": "https://gitlab.com/librallu/balancedtspcode"}
+        ]
+    },
+    {
+        "title": "Do balanced words have a short period?",
+        "where": "Theoretical Computer Science (TCS), Volume 793, 12 November 2019",
+        "authors": "Nadia Brauner, Yves Crama, Etienne Delaporte, Vincent Jost, Luc Libralesso",
+        "actions": [
+            {"name": "DOI", "link": "https://doi.org/10.1016/j.tcs.2019.06.017"},
+            {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-01954563/document"}
         ]
     }
 ]

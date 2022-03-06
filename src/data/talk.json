@@ -1,7 +1,12 @@
 [
     {
         "title": "From a branch-and-bound to a state-of-the-art heuristic: An example on the permutation flowshop problem",
-        "text": "June 15 2021",
+        "text": "May 6 2021, 22ème congrès annuel de la société Française de Recherche Opérationnelle et d’Aide à la Décision (ROADEF 2021)",
+        "actions": [{"name": "slides", "link": "/slides/21_04_ROADEF_IBS_PFSP.pdf"}]
+    },
+    {
+        "title": "From a branch-and-bound to a state-of-the-art heuristic: An example on the permutation flowshop problem",
+        "text": "June 15 2021, MESS2020+1",
         "actions": [{"name": "slides", "link": "/slides/21_06_MESS_talk.pdf"}]
     },
     {

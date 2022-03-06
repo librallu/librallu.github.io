@@ -30,8 +30,8 @@ const App: Component = () => {
                 </div>
                 <div class="column">
                     <p>
-                        I recently defended my Phd thesis in combinatorial optimization.<br/>
-                        I mainly work on efficient algorithms for hard combinatorial optimization problems (mostly tree search and dynamic programming algorithms).
+                        {/* I recently defended my Phd thesis in combinatorial optimization.<br/> */}
+                        I work on efficient search algorithms for hard academic and industrial combinatorial optimization problems (mostly branch and bound, dynamic programming, local search).
                     </p>
                     <div class="social-networks">
                         <a href="https://github.com/librallu/">
@@ -289,6 +289,8 @@ const App: Component = () => {
             <div class="separator-50"></div>
 
             <h1 class="text-4xl text-center font-bold">Various talks</h1>
+
+            <div class="separator-50"></div>
 
             <ul>
             <For each={talk_data}>{(talk) =>

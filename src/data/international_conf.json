@@ -1,5 +1,15 @@
 [
     {
+        "title": "Local search with weighting schemes for the CG:SHOP 2022 competition",
+        "where": "(Accepted) The 38th International Symposium on Computational Geometry (SoCG 2022)",
+        "authors": "Florian Fontan, Pascal Lafourcade, Luc Libralesso, Benjamin Momège",
+        "actions": [
+            {"name": "DOI (to appear)", "link": ""},
+            {"name": "PDF", "link": "/papers/22_02_socg_coloring.pdf"},
+            {"name": "code", "link": "https://github.com/librallu/dogs-color"}
+        ]
+    },
+    {
         "title": "Automatic Generation of Declarative Models For Differential Cryptanalysis",
         "where": "The 27th International Conference on Principles and Practice of Constraint Programming (CP 2021)",
         "authors": "Luc Libralesso, François Delobel, Pascal Lafourcade, Christine Solnon",
