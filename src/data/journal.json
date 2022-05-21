@@ -1,11 +1,32 @@
 [
     {
+        "title": "Deposition chamber technology as building blocks for a standardized brain-on-chip framework",
+        "where": "(Accepted) Microsystems & Nanoengineering",
+        "authors": "B. G. C. Maisonneuve, L. Libralesso, L. Miny, A. Batut, J. Rontard, M. Gleyzes, B. Boudra, J. Viera, D. Debis, F. Larramendy, V. Jost, T. Honegger",
+        "actions": [
+            {
+                "name": "PDF",
+                "link": "https://www.biorxiv.org/content/10.1101/2021.06.21.449231v2.full.pdf"
+            }
+        ]
+    },
+    {
         "title": "Shadoks Approach to Low-Makespan Coordinated Motion Planning",
-        "where": "(Accepted) Journal of Experimental Algorithmics",
+        "where": "Journal of Experimental Algorithmics",
         "authors": "Loïc Crombez, Guilherme D. da Fonseca, Yan Gerard, Aldo Gonzalez-Lorenzo, Pascal Lafourcade, Luc Libralesso",
         "actions": [
-            {"name": "DOI (to appear)", "link": ""},
-            {"name": "PDF", "link": "https://arxiv.org/pdf/2103.13956.pdf"}
+            {
+                "name": "DOI",
+                "link": "https://doi.org/10.1145/3524133"
+            },
+            {
+                "name": "PDF",
+                "link": "https://arxiv.org/pdf/2103.13956.pdf"
+            },
+            {
+                "name": "code",
+                "link": "https://github.com/gfonsecabr/shadoks-robots"
+            }
         ]
     },
     {
@@ -13,8 +34,14 @@
         "where": "Information and Computation, Available online 7 December 2021",
         "authors": "Léo Robert, Daiki Miyahara, Pascal Lafourcade, Luc Libralesso, Takaaki Mizuki",
         "actions": [
-            {"name": "DOI", "link": "https://doi.org/10.1016/j.ic.2021.104858"},
-            {"name": "PDF", "link": "https://hal.uca.fr/hal-03542495/document"}
+            {
+                "name": "DOI",
+                "link": "https://doi.org/10.1016/j.ic.2021.104858"
+            },
+            {
+                "name": "PDF",
+                "link": "https://hal.uca.fr/hal-03542495/document"
+            }
         ]
     },
     {
@@ -22,9 +49,18 @@
         "where": "European Journal of Operational Research (EJOR), Available online 25 November 2021",
         "authors": "Luc Libralesso, Pablo Andres Focke,  Aurélien Secardin, Vincent Jost",
         "actions": [
-            {"name": "DOI", "link": "https://doi.org/10.1016/j.ejor.2021.10.015"},
-            {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-02937115/document"},
-            {"name": "code", "link": "https://github.com/librallu/dogs-pfsp"}
+            {
+                "name": "DOI",
+                "link": "https://doi.org/10.1016/j.ejor.2021.10.015"
+            },
+            {
+                "name": "PDF",
+                "link": "https://hal.archives-ouvertes.fr/hal-02937115/document"
+            },
+            {
+                "name": "code",
+                "link": "https://github.com/librallu/dogs-pfsp"
+            }
         ]
     },
     {
@@ -32,10 +68,22 @@
         "where": "European Journal of Operational Research (EJOR) Volume 291, Issue 3, 16 June 2021, Pages 883-893",
         "authors": "Luc Libralesso, Florian Fontan",
         "actions": [
-            {"name": "DOI", "link": "https://doi.org/10.1016/j.ejor.2020.10.050"},
-            {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-02531037/document"},
-            {"name": "code", "link": "https://github.com/fontanf/roadef2018"},
-            {"name": "Video", "link": "https://watch.cloudflarestream.com/0e9acf6e4c59011b387b5b56c9df194f"}
+            {
+                "name": "DOI",
+                "link": "https://doi.org/10.1016/j.ejor.2020.10.050"
+            },
+            {
+                "name": "PDF",
+                "link": "https://hal.archives-ouvertes.fr/hal-02531037/document"
+            },
+            {
+                "name": "code",
+                "link": "https://github.com/fontanf/roadef2018"
+            },
+            {
+                "name": "Video",
+                "link": "https://watch.cloudflarestream.com/0e9acf6e4c59011b387b5b56c9df194f"
+            }
         ]
     },
     {
@@ -43,8 +91,14 @@
         "where": "Operational Research, Available online 25 May 2021",
         "authors": "Khadija Hadj Salem, Vincent Jost, Yann Kieffer, Luc Libralesso, Stéphane Mancini",
         "actions": [
-            {"name": "DOI", "link": "https://doi.org/10.1007/s12351-021-00647-0"},
-            {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-03010229v1/document"}
+            {
+                "name": "DOI",
+                "link": "https://doi.org/10.1007/s12351-021-00647-0"
+            },
+            {
+                "name": "PDF",
+                "link": "https://hal.archives-ouvertes.fr/hal-03010229v1/document"
+            }
         ]
     },
     {
@@ -52,9 +106,18 @@
         "where": "Part of the Advances in Intelligent Systems and Computing book series (AISC, volume 1332)",
         "authors": "Luc Libralesso",
         "actions": [
-            {"name": "DOI", "link": "https://doi.org/10.1007/978-3-030-68520-1_1"},
-            {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-02569456/document"},
-            {"name": "code", "link": "https://gitlab.com/librallu/balancedtspcode"}
+            {
+                "name": "DOI",
+                "link": "https://doi.org/10.1007/978-3-030-68520-1_1"
+            },
+            {
+                "name": "PDF",
+                "link": "https://hal.archives-ouvertes.fr/hal-02569456/document"
+            },
+            {
+                "name": "code",
+                "link": "https://gitlab.com/librallu/balancedtspcode"
+            }
         ]
     },
     {
@@ -62,8 +125,14 @@
         "where": "Theoretical Computer Science (TCS), Volume 793, 12 November 2019",
         "authors": "Nadia Brauner, Yves Crama, Etienne Delaporte, Vincent Jost, Luc Libralesso",
         "actions": [
-            {"name": "DOI", "link": "https://doi.org/10.1016/j.tcs.2019.06.017"},
-            {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-01954563/document"}
+            {
+                "name": "DOI",
+                "link": "https://doi.org/10.1016/j.tcs.2019.06.017"
+            },
+            {
+                "name": "PDF",
+                "link": "https://hal.archives-ouvertes.fr/hal-01954563/document"
+            }
         ]
     }
 ]

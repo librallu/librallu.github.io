@@ -1,6 +1,6 @@
 import type { Component, For } from 'solid-js';
 
-import { YoutubeLogo, FilePdf, GitlabLogo, PresentationChart, Globe, Sparkle, TwitterLogo, LinkedinLogo, GoogleLogo, GithubLogo } from "phosphor-solid";
+import { YoutubeLogo, FilePdf, GitlabLogo, PresentationChart, Globe, Sparkle, TwitterLogo, LinkedinLogo, GoogleLogo, GithubLogo, Envelope } from "phosphor-solid";
 
 import journal_data from '/src/data/journal.json'
 import conf_data from '/src/data/international_conf.json'
@@ -25,7 +25,7 @@ const App: Component = () => {
             </section>
 
             <div class="columns profile-presentation">
-                <div class="column is-one-fifth">
+                <div class="column is-one-fifth pic-div">
                     <img class="is-rounded profile-pic" src="/img/pic.jpg" />
                 </div>
                 <div class="column">
@@ -52,6 +52,11 @@ const App: Component = () => {
                         <a href="https://www.researchgate.net/profile/Luc-Libralesso">
                             <button class="button is-text">
                                 <b class="text-blue-600">RG</b>
+                            </button>
+                        </a>
+                        <a href="mailto:libralesso.l@gmail.com">
+                            <button class="button is-text">
+                            <Envelope size={28} class="text-blue-600"/>
                             </button>
                         </a>
                     </div>
@@ -261,6 +266,8 @@ const App: Component = () => {
 
             <h1 class="text-4xl text-center font-bold">Advising</h1>
 
+            <div class="separator-50"></div>
+
             <ul><For each={advising_data}>{(advising) =>
                 <div class="advising">
                     <b>{advising["name"]}</b><br/>
@@ -272,6 +279,8 @@ const App: Component = () => {
             <div class="separator-50"></div>
 
             <h1 class="text-4xl text-center font-bold">Teaching</h1>
+
+            <div class="separator-50"></div>
 
             <For each={teaching_data}>{(teaching_year) =>
                 <div class="teaching_year">

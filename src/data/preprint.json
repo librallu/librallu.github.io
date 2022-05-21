@@ -1,32 +1,40 @@
 [
     {
-        "title": "Deposition chamber technology as building blocks for a standardized brain-on-chip framework",
-        "authors": "B. G. C. Maisonneuve, L. Libralesso, L. Miny, A. Batut, J. Rontard, M. Gleyzes, B. Boudra, J. Viera, D. Debis, F. Larramendy, V. Jost, T. Honegger",
-        "actions": [
-            {"name": "PDF", "link": "https://www.biorxiv.org/content/10.1101/2021.06.21.449231v2.full.pdf"}
-        ]
-    },
-    {
         "title": "Longest common subsequence: an algorithmic component analysis",
         "authors": "Luc Libralesso, Aurélien Secardin, Vincent Jost",
         "actions": [
-            {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-02895115/document"},
-            {"name": "code", "link": "https://gitlab.com/secardia/cats-ts-lcs"}
+            {
+                "name": "PDF",
+                "link": "https://hal.archives-ouvertes.fr/hal-02895115/document"
+            },
+            {
+                "name": "code",
+                "link": "https://gitlab.com/secardia/cats-ts-lcs"
+            }
         ]
     },
     {
         "title": "An anytime tree search algorithm for two-dimensional two- and three-staged guillotine packing problems",
         "authors": "Florian Fontan, Luc Libralesso",
         "actions": [
-            {"name": "PDF", "link": "https://arxiv.org/pdf/2004.02603.pdf"},
-            {"name": "code", "link": "https://github.com/fontanf/packingsolver"}
+            {
+                "name": "PDF",
+                "link": "https://arxiv.org/pdf/2004.02603.pdf"
+            },
+            {
+                "name": "code",
+                "link": "https://github.com/fontanf/packingsolver"
+            }
         ]
     },
     {
         "title": "Study on partial flexible job-shop scheduling problem under tooling constraints: complexity and related problems",
         "authors": "Luc Libralesso, Vincent Jost, Khadija Hadj Salem, Florian Fontan, Frédéric Maffray",
         "actions": [
-            {"name": "PDF", "link": "https://hal.archives-ouvertes.fr/hal-02183503/document"}
+            {
+                "name": "PDF",
+                "link": "https://hal.archives-ouvertes.fr/hal-02183503/document"
+            }
         ]
     }
 ]

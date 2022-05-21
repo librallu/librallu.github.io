@@ -14,7 +14,7 @@
         "where": "The 27th International Conference on Principles and Practice of Constraint Programming (CP 2021)",
         "authors": "Luc Libralesso, François Delobel, Pascal Lafourcade, Christine Solnon",
         "actions": [
-            {"name": "DOI", "link": "https://www.doi.org/10.3233/FAIA200126"},
+            {"name": "DOI", "link": "https://doi.org/10.4230/LIPIcs.CP.2021.40"},
             {"name": "PDF", "link": "https://drops.dagstuhl.de/opus/volltexte/2021/15331/pdf/LIPIcs-CP-2021-40.pdf"},
             {"name": "code", "link": "https://gitlab.limos.fr/iia_lulibral/tagada"},
             {"name": "Video", "link": "https://www.youtube.com/watch?v=g2bRL9y_WNc"}
@@ -25,7 +25,7 @@
         "where": "The 37th International Symposium on Computational Geometry (SoCG 2021)",
         "authors": "Loïc Crombez, Guilherme D. da Fonseca, Yan Gerard, Aldo Gonzalez-Lorenzo, Pascal Lafourcade, Luc Libralesso",
         "actions": [
-            {"name": "DOI", "link": "10.4230/LIPIcs.SoCG.2021.63"},
+            {"name": "DOI", "link": "https://doi.org/10.4230/LIPIcs.SoCG.2021.63"},
             {"name": "PDF", "link": "https://drops.dagstuhl.de/opus/volltexte/2021/13862/pdf/LIPIcs-SoCG-2021-63.pdf"},
             {"name": "code", "link": "https://github.com/gfonsecabr/shadoks-robots"}
         ]

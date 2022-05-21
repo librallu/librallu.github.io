@@ -57,3 +57,48 @@
     margin: 10px;
     margin-top: 20px;
 }
+
+/* @media only screen and (max-width: 768px) { */
+    @media only screen and (max-width: 1085px) {
+    
+    p {
+        justify-content: center;
+        text-align: justify;
+    }
+
+    .title {
+        text-align: center;
+    }
+
+    .subtitle {
+        text-align: center;
+    }
+
+    .pic-div {
+        justify-content: center;
+    }
+
+    .profile-pic {
+        margin: auto;
+    }
+
+    .social-networks {
+        justify-content: center;
+    }
+
+    .card-compact {
+        width: 98%;
+        margin: 1%;
+    }
+
+    .card-footer-item span {
+        font-size: 0.75em;
+        margin: 0px;
+    }
+
+    .card-footer-item svg {
+        width: 15px;
+        height: 15px;
+        margin: 0px;
+    }
+}
